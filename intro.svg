@@ -8,8 +8,6 @@
               }
               #intro {
                 font-family: 'font-file-82132', sans-serif;
-                display: flex;
-                align-items: center;
                 line-height: 1em;
                 font-size: 5rem;
                 color: #e6e6e6;
