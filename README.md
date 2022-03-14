@@ -2,7 +2,7 @@
     <img src="intro.svg" width="100%" alt="hi, i'm amitabh sahu, web developer from india">
 </div>
 
-<h2 align="left">I'm a self taught developer. Other then development I like to traveling specially in trains and watching series and movies of the genres like sci-fi, suspense and thriller.</h2>
+<h3 align="left">I'm a self taught developer. Other then development I like to traveling specially in trains and watching series and movies of the genres like sci-fi, suspense and thriller.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
