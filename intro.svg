@@ -11,6 +11,7 @@
                   line-height: 1em;
                   font-size: 5rem;
                   color: #e6e6e6;
+                  margin: 0;
               }
               .spacial {
                   text-shadow: -0.08em 0em #808080;
