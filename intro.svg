@@ -8,7 +8,6 @@
               }
               #intro {
                 font-family: 'font-file-82132', sans-serif;
-                background-color: #1a1a1a;
                 line-height: 1em;
                 font-size: 60px;
                 color: #e6e6e6;
