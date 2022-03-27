@@ -10,11 +10,11 @@
                 font-family: 'font-file-82132', sans-serif;
                 line-height: 1em;
                 font-size: 60px;
-                color: #e6e6e6;
+                color: #a6a6a6;
                 margin: 0;
               }
               .spacial {
-                text-shadow: -0.08em 0em #808080;
+                text-shadow: -0.08em 0em #595959;
                 font-size: 1.25em;
               }
             </style>
