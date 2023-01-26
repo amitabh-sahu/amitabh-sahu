@@ -1,4 +1,6 @@
-<font size=”10”>Hi, i'm <font size=”16”>a</font>mitabh <font size=”16”>s</font>ahu,<br />web developer from india</font>
+<div align="left">
+    <img src="intro.svg" width="100%" alt="hi, i'm amitabh sahu, web developer from india">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
