@@ -1,4 +1,4 @@
-<h3 style="font-size:50px;line-height:50px;">Hi, i'm <h1 style="font-size:100px;">a</h1>mitabh <h1 style="font-size:100px;">s</h1>ahu,<br />web developer from india</h3>
+<font size=”10”>Hi, i'm <font size=”16”>a</font>mitabh <font size=”16”>s</font>ahu,<br />web developer from india</font>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
