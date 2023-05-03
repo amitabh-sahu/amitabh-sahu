@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="intro.svg" width="100%" alt="hi, i'm amitabh sahu, web developer from india">
+    <img src="intro.png" width="100%" alt="hi, i'm amitabh sahu, web developer from india">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
