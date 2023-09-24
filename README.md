@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,firebase,mongodb,nodejs,express,html,css,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,firebase,mongodb,nodejs,express,html,css,tailwind,git" />
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
