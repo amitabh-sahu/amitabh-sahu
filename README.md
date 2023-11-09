@@ -1,7 +1,4 @@
-![Hi, I'm Amitabh Sahu, a web developer from India](intro.png)
-
-## Hacktoberfest 2023:
-[![An image of @amitabhsahu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitabhsahu)](https://holopin.io/@amitabhsahu)
+![Hi, I'm Amitabh Sahu, a web developer from India](https://github.com/amitabh-sahu/amitabh-sahu/assets/90052329/312a0d9b-4709-46b4-b691-5e71d2836e7e)
 
 # Languages and Tools:
 ![JavaScript, TypeScript, NextJS, ReactJS, Firebase, MongoDB, NodeJS, Express, HTML, CSS, TailwindCSS, Git](https://skillicons.dev/icons?i=js,ts,nextjs,react,firebase,mongodb,nodejs,express,html,css,tailwind,git)
